@@ -3,7 +3,7 @@
  * Arquivo: src/components/pages/Todo/Todo.js
  * Data: 22/06/2020
  * Descrição: arquivo responsável por lidar com a lógica inerente ao componente 'Todo'.
- * Autora: Glaucia Lemos
+ * Autor: Felipe Albeche
  *
  */
 

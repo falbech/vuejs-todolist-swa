@@ -3,7 +3,7 @@
  * Arquivo: src/middlewares/router.js
  * Data: 25/12/2018
  * Descrição: arquivo responsável por lidar com todas as rotas da aplicação.
- * Autora: Glaucia Lemos
+ * Autor: Felipe Albeche
  *
  */
 

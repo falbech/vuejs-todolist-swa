@@ -4,7 +4,7 @@
  * Arquivo: src/components/pages/TodoList/TodoList.js
  * Data: 22/06/2020
  * Descrição: arquivo responsável por lidar com a lógica inerente ao componente 'TodoList'
- * Autora: Glaucia Lemos
+ * Autor: Felipe Albeche
  *
  */
 import sweetAlert from 'sweetalert';
