@@ -3,7 +3,7 @@
  * Arquivo: main.js
  * Data: 22/06/2020
  * Descrição: arquivo responsável por lidar com toda a lógica de execução da app.
- * Author: Glaucia Lemos
+ * Author: Felipe Albeche
  */
 import Vue from 'vue';
 import router from './router/index';
